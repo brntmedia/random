@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.lbox{
+    background-color: light blue;
+    margin:auto;
+    font-weight: 10;
+    font-family: montserrat, "open Sans", helvetica, Arial, sans-serif;
+    text-align: center;
+}
+.tbox{
+    color: black;;
+}
+.tim{
+    display:block;
+    float: right;
+    width: 250px;
+    height: 300px;
+}
+.abox{
+    color: black;
+}
+.main-footer{
+    text-align: center;
+    font-size: 14px;
+    background-color: rgb(38, 153, 173);
+    width: 80%;
+}
